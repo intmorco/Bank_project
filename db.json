@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "cad0650e-b4d0-45a4-9606-1f7b824c1a6d",
+      "email": "mirkomilmuhtorov22@gmail.com",
+      "name": "Muxtorov Mirkomil",
+      "surname": "XURRAMOV",
+      "password": "Mirkomil2005"
+    },
+    {
+      "id": "14965cb1-d788-48d3-b2f7-310f5397bad3",
+      "email": "damir@gmail.com",
+      "name": "Eshmat",
+      "surname": "Sulimov",
+      "password": "Mirkomil2005"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "72f5800d-364f-42ed-a25f-cb1c1b6cd7c7",
+      "userId": "14965cb1-d788-48d3-b2f7-310f5397bad3",
+      "createdAt": "2024-08-14T06:06:05.028Z",
+      "updatedAt": "2024-08-14T06:06:05.028Z",
+      "name": "visa",
+      "currency": "USD",
+      "amount": "1200"
+    },
+    {
+      "id": "a646c748-6227-4137-a7c6-80387d0cd68a",
+      "userId": "14965cb1-d788-48d3-b2f7-310f5397bad3",
+      "createdAt": "2024-08-14T06:06:17.456Z",
+      "updatedAt": "2024-08-14T06:06:17.456Z",
+      "name": "TBC",
+      "currency": "UZS",
+      "amount": "5100000"
+    },
+    {
+      "id": "bf4b1ded-d2ec-4645-b204-d50e32a96dfd",
+      "userId": "14965cb1-d788-48d3-b2f7-310f5397bad3",
+      "createdAt": "2024-08-14T06:06:30.888Z",
+      "updatedAt": "2024-08-14T06:06:30.888Z",
+      "name": "Ipoteka",
+      "currency": "UZS",
+      "amount": "63000"
+    }
+  ],
+  "transactions": []
+}
